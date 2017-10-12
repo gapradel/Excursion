@@ -1,0 +1,35 @@
+body{
+	font-family: verdana;
+	background-color: black;
+	text-align:center;
+}
+.normalfontw{
+	font-weight:normal;
+}
+.fontw300{
+font-weight: 300;
+}
+.white{
+	color:white;
+}
+.aquamarine{
+	color: aquamarine;
+}
+.gray{
+	color:gray;
+}
+.font16{
+	font-size: 16px;
+}
+.font50{
+	font-size: 50px;
+}
+.font21{
+	font-size: 21px;
+}
+.font42{
+	font-size: 42px;
+}
+.textright{
+	text-align: right;
+}
